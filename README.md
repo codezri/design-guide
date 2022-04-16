@@ -10,6 +10,8 @@ For referencing and promoting the CodeZri organization, please use the following
 - codezri
 - CodeZri.org
 
+Links and details:
+
 - Tagline: Portable and lightweight cross platform desktop app development framework
 - Official website: https://neutralino.js.org
 - GitHub organization: https://github.com/codezri
